@@ -1,0 +1,24 @@
+:root {--main-color: #000;}
+
+
+.test {
+	position: relative;
+	font-size: 8px;
+	border-style: dashed;
+	text-align: justify;
+	text-decoration: line-through;
+	padding: 10px 20px;
+	margin: 30px;
+	border: 5px solid #040;
+	user-select: none;
+}
+
+#isText {
+	background-color: #000;
+	font-size: 24px;
+	font-style: unset;
+}
+.splide__slide img {
+  width: 100%;
+  height: auto;
+}
