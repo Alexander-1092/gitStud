@@ -6,3 +6,4 @@ const person = {
 }
 
 const {age, name, occupatiom} = person
+console.log('he')
